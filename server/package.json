@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nitesh Nagar",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
